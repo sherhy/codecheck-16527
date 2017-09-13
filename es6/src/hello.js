@@ -1,4 +1,5 @@
 export function hello(name) {
-  return "Hello world!";
+  let nom = name
+  return "Hello "+name+"!";
 }
 
